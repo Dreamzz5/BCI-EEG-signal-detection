@@ -1,1 +1,0 @@
-# BCI-EEG-signal-detection
