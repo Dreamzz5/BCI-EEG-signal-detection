@@ -30,4 +30,12 @@ Required:
     For visualisation
 - [sklearn](https://scikit-learn.org/):
     For training
+## Files
+
+
+ $ Data analazy.ipynb  contain some codes for data visualization
+ 
+ $ all subjects prediction.ipynb  ML codes with all users 
+
+
 
