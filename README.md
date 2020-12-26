@@ -17,3 +17,24 @@ P300事件相关电位是诱发脑电信号的一种，在小概率刺激发生�
 <br><img src="img/检测.png"/></br>
 </div>
 
+## Dependencies
+
+Required:
+
+- [numpy](http://www.numpy.org)
+- [pandas](https://pandas.pydata.org/)
+- [scipy](https://www.scipy.org)
+- [matplotlib](http://matplotlib.org):
+    For visualisation
+- [seaborn]( https://seaborn.pydata.org/index.html):
+    For visualisation
+- [sklearn](https://scikit-learn.org/):
+    For training
+## Files
+
+    $ Data analazy.ipynb  contain some codes for data visualization
+ 
+    $ All subjects prediction.ipynb  ML codes with all users 
+
+
+
