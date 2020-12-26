@@ -32,10 +32,9 @@ Required:
     For training
 ## Files
 
-
- $ Data analazy.ipynb  contain some codes for data visualization
+    $ Data analazy.ipynb  contain some codes for data visualization
  
- $ all subjects prediction.ipynb  ML codes with all users 
+    $ All subjects prediction.ipynb  ML codes with all users 
 
 
 
